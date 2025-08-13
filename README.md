@@ -27,7 +27,7 @@ A complete machine learning pipeline from data exploration to deployment, predic
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/titanic-survival-predictor.git
+   git clone [https://github.com/yourusername/titanic-survival-predictor.git](https://github.com/SLxnoat/titanic-survival-predictor)
    cd titanic-survival-predictor
 
 2. Set up virtual environment:
@@ -130,5 +130,6 @@ Suggested Improvements:
 - Add authentication layer
 
 ## License
+
 
 MIT License
